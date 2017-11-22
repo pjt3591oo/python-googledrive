@@ -8,7 +8,7 @@
 
 여기서 생성한 시크릿 키는 `./config/google/google_drive_secret_key.json`으로 생성해줍니다.
 
-[설명 보러가기](http://blog.naver.com/pjt3591oo)
+[설명 보러가기](http://blog.naver.com/pjt3591oo/221145739394)
 
 ## 실행
 
